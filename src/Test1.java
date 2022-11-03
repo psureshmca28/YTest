@@ -3,7 +3,7 @@ public class Test1 {
 
 	public static void main(String[] args) {
 
-int x=40;
+int x=50;
 		
 	}
 
